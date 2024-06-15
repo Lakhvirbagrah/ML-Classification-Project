@@ -28,3 +28,8 @@ k.	Performed classification using SVMs and interpreted and visualized the result
 l.	Discussed which classes are most similar/different with some justification given 
 
 m.	Explained how you might identify faces that are mislabeled in the dataset and provide an implementation.
+
+Dataset links: test.csv https://drive.google.com/file/d/1CZtp2u9aTc1w8xpLiXWE_AZgUntn5rTp/view?usp=sharing
+
+Training.csv
+https://drive.google.com/file/d/1BZbN2wa9aACj2sO_CnP_hubMAyHqB5UN/view?usp=sharing
